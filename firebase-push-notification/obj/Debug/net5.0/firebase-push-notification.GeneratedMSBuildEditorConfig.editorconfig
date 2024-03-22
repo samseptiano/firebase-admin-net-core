@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = firebase_push_notification
-build_property.ProjectDir = C:\Users\samuel.septiano\Documents\Gitlab\firebase-push-notification\firebase-push-notification\
+build_property.ProjectDir = C:\Users\samuel.septiano\Documents\Github\FirebaseAdminNetCore\firebase-admin-net-core\firebase-push-notification\

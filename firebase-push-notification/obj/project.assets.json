@@ -509,11 +509,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samuel.septiano\\Documents\\Gitlab\\firebase-push-notification\\firebase-push-notification\\firebase-push-notification.csproj",
+      "projectUniqueName": "C:\\Users\\samuel.septiano\\Documents\\Github\\FirebaseAdminNetCore\\firebase-admin-net-core\\firebase-push-notification\\firebase-push-notification.csproj",
       "projectName": "firebase-push-notification",
-      "projectPath": "C:\\Users\\samuel.septiano\\Documents\\Gitlab\\firebase-push-notification\\firebase-push-notification\\firebase-push-notification.csproj",
+      "projectPath": "C:\\Users\\samuel.septiano\\Documents\\Github\\FirebaseAdminNetCore\\firebase-admin-net-core\\firebase-push-notification\\firebase-push-notification.csproj",
       "packagesPath": "C:\\Users\\samuel.septiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samuel.septiano\\Documents\\Gitlab\\firebase-push-notification\\firebase-push-notification\\obj\\",
+      "outputPath": "C:\\Users\\samuel.septiano\\Documents\\Github\\FirebaseAdminNetCore\\firebase-admin-net-core\\firebase-push-notification\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samuel.septiano\\AppData\\Roaming\\NuGet\\NuGet.Config",
