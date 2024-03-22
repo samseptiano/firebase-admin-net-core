@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firebase-push-notification", "firebase-push-notification\firebase-push-notification.csproj", "{E041494F-9BE1-4A84-98C2-8E9F8850FF83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E041494F-9BE1-4A84-98C2-8E9F8850FF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E041494F-9BE1-4A84-98C2-8E9F8850FF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E041494F-9BE1-4A84-98C2-8E9F8850FF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E041494F-9BE1-4A84-98C2-8E9F8850FF83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC51122-6C45-4C72-9F6E-9EFA39F8743E}
+	EndGlobalSection
+EndGlobal
